@@ -1,0 +1,38 @@
+{
+  "name": "IDmarimo",
+  "short_name": "IDmarimo",
+  "start_url": "https://idmarimo.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Blog yang ditampilkan hanya text saja, tetapi di postingan bisa ditambah image dan video Youtube.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-er85srqSNJI/XU7DyuPsD_I/AAAAAAAAB1s/4P-hUSzOhdM1fEqxYbRwjWx-N3SP7fliQCLcBGAs/s48/logo%2Bidmarimo.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-er85srqSNJI/XU7DyuPsD_I/AAAAAAAAB1s/4P-hUSzOhdM1fEqxYbRwjWx-N3SP7fliQCLcBGAs/s72/logo%2Bidmarimo.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-er85srqSNJI/XU7DyuPsD_I/AAAAAAAAB1s/4P-hUSzOhdM1fEqxYbRwjWx-N3SP7fliQCLcBGAs/s96/logo%2Bidmarimo.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-er85srqSNJI/XU7DyuPsD_I/AAAAAAAAB1s/4P-hUSzOhdM1fEqxYbRwjWx-N3SP7fliQCLcBGAs/s144/logo%2Bidmarimo.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-er85srqSNJI/XU7DyuPsD_I/AAAAAAAAB1s/4P-hUSzOhdM1fEqxYbRwjWx-N3SP7fliQCLcBGAs/s168/logo%2Bidmarimo.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-er85srqSNJI/XU7DyuPsD_I/AAAAAAAAB1s/4P-hUSzOhdM1fEqxYbRwjWx-N3SP7fliQCLcBGAs/s192/logo%2Bidmarimo.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-er85srqSNJI/XU7DyuPsD_I/AAAAAAAAB1s/4P-hUSzOhdM1fEqxYbRwjWx-N3SP7fliQCLcBGAs/s512/logo%2Bidmarimo.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
